@@ -1,0 +1,1 @@
+A:\vendor_partner\android\app\src\main\kotlin\com\vendor\vendor_partner\MainActivity.kt
